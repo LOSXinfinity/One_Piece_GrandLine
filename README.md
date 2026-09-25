@@ -1,4 +1,4 @@
-# Grand Line Fizz — One Piece 3D Drink Landing Page
+# One Piece Grand Line  — One Piece 3D Drink Landing Page
 
 A One Piece 3d landing page (Next.js + GSAP + React Three Fiber).
 
